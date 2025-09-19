@@ -145,5 +145,7 @@ img {
     .steps .col{
         width: 100%;
     }
-
+    .why-us .col-right{
+        width: 100%;
+    }
  }
